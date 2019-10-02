@@ -1,0 +1,18 @@
+Project Name: Human Resource Management System
+Name: Md Sakhawat Hossain 
+ID: 1246665
+Round No: IDB-BISEW C# R39
+
+----------------------------------------------------------------------
+----------Login-------------
+Admin --------
+User : Shsohel
+Password : Shs@123
+
+Manager -------
+User :nvit
+Password: Zigg@12342
+
+
+------Project OverView---------
+1. Admin Can Update 

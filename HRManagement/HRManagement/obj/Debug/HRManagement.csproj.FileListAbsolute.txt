@@ -1,0 +1,211 @@
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\HRManagement.dll.config
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\HRManagement.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\HRManagement.pdb
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\csc.exe
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\csc.exe.config
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\csc.rsp
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\csi.exe
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\csi.exe.config
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\csi.rsp
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.AppContext.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Console.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\vbc.exe
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\vbc.exe.config
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\vbc.rsp
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Antlr3.Runtime.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\EntityFramework.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Newtonsoft.Json.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Owin.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\System.Web.Optimization.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\System.Web.Providers.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\WebGrease.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\System.Web.Optimization.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Newtonsoft.Json.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Antlr3.Runtime.pdb
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\EntityFramework.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\System.Web.Providers.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\obj\Debug\HRManagement.csprojAssemblyReference.cache
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\obj\Debug\HRManagement.csproj.CoreCompileInputs.cache
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\obj\Debug\HRManagement.csproj.CopyComplete
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\obj\Debug\HRManagement.dll
+C:\Users\SH SOHEL\Desktop\HRManagement\HRManagement\obj\Debug\HRManagement.pdb
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\HRManagement.dll.config
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\HRManagement.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\HRManagement.pdb
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\csc.exe
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\csc.exe.config
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\csc.rsp
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\csi.exe
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\csi.exe.config
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\csi.rsp
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.AppContext.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Console.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\vbc.exe
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\vbc.exe.config
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\vbc.rsp
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Antlr3.Runtime.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\EntityFramework.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Newtonsoft.Json.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Owin.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\System.Web.Optimization.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\System.Web.Providers.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\WebGrease.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\System.Web.Optimization.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Newtonsoft.Json.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Antlr3.Runtime.pdb
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\EntityFramework.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\System.Web.Providers.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\obj\Debug\HRManagement.csproj.CoreCompileInputs.cache
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\obj\Debug\HRManagement.csproj.CopyComplete
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\obj\Debug\HRManagement.dll
+C:\Users\IDB_C#\Desktop\HRManagement\HRManagement\obj\Debug\HRManagement.pdb

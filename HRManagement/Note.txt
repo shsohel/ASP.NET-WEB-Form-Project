@@ -1,0 +1,2 @@
+Email - Password- Role
+shsohel.tc@gmail.com - Shs@123 - Admin
